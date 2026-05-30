@@ -22,3 +22,9 @@ This project is a responsive website dedicated to a national basketball team, de
 ## Description
 
 The website presents information about a national basketball team, including player details, match schedules, results, achievements, and general team history. The focus of the project was on creating an attractive, responsive, and easy-to-navigate sports website.
+
+## Note
+
+Screenshots of the website can be found in the View folder included in this repository.
+
+This project was developed using Bootstrap and was also recreated in WordPress as part of the same coursework to demonstrate both front-end development and content management system (CMS) implementation.
