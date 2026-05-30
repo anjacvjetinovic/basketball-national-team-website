@@ -11,6 +11,7 @@ This project is a responsive website dedicated to a national basketball team, de
 * News and updates sections
 * Online ticket purchasing
 * Team statistics and performance data
+* Fan voting and poll system
 * Clean and structured layout using Bootstrap components
 
 ## Technologies Used
